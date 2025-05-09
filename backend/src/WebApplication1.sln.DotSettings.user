@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7fc6f602_002D11a7_002D4909_002D8177_002Da4d89a7d0497/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Should_Fail_K4_With_3_Colors #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::497960BE-0F99-44E6-9065-19355B0A4C21::net8.0::WebApplication1.Tests.Adapters.BacktrackingHandlerTests.Should_Fail_K4_With_3_Colors&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cf47dce9_002Ddd15_002D4c83_002D8b36_002Dbe39ee92cbf5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should_Fail_K4_With_3_Colors #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::497960BE-0F99-44E6-9065-19355B0A4C21::net8.0::WebApplication1.Tests.Adapters.BacktrackingHandlerTests.Should_Fail_K4_With_3_Colors&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f768d12c_002Dae67_002D45b9_002Da6c4_002Deb7d16bffb68/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Should_Fail_K4_With_3_Colors" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::497960BE-0F99-44E6-9065-19355B0A4C21::net8.0::WebApplication1.Tests.Adapters.BacktrackingHandlerTests.Should_Fail_K4_With_3_Colors&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
